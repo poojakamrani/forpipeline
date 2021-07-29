@@ -1,0 +1,12 @@
+C:\online training\csharp\Day1VS\AssignmentoneQ1\bin\Debug\netcoreapp3.1\AssignmentoneQ1.exe
+C:\online training\csharp\Day1VS\AssignmentoneQ1\bin\Debug\netcoreapp3.1\AssignmentoneQ1.deps.json
+C:\online training\csharp\Day1VS\AssignmentoneQ1\bin\Debug\netcoreapp3.1\AssignmentoneQ1.runtimeconfig.json
+C:\online training\csharp\Day1VS\AssignmentoneQ1\bin\Debug\netcoreapp3.1\AssignmentoneQ1.runtimeconfig.dev.json
+C:\online training\csharp\Day1VS\AssignmentoneQ1\bin\Debug\netcoreapp3.1\AssignmentoneQ1.dll
+C:\online training\csharp\Day1VS\AssignmentoneQ1\bin\Debug\netcoreapp3.1\AssignmentoneQ1.pdb
+C:\online training\csharp\Day1VS\AssignmentoneQ1\obj\Debug\netcoreapp3.1\AssignmentoneQ1.AssemblyInfoInputs.cache
+C:\online training\csharp\Day1VS\AssignmentoneQ1\obj\Debug\netcoreapp3.1\AssignmentoneQ1.AssemblyInfo.cs
+C:\online training\csharp\Day1VS\AssignmentoneQ1\obj\Debug\netcoreapp3.1\AssignmentoneQ1.csproj.CoreCompileInputs.cache
+C:\online training\csharp\Day1VS\AssignmentoneQ1\obj\Debug\netcoreapp3.1\AssignmentoneQ1.dll
+C:\online training\csharp\Day1VS\AssignmentoneQ1\obj\Debug\netcoreapp3.1\AssignmentoneQ1.pdb
+C:\online training\csharp\Day1VS\AssignmentoneQ1\obj\Debug\netcoreapp3.1\AssignmentoneQ1.genruntimeconfig.cache
