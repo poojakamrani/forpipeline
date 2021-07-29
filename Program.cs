@@ -64,6 +64,7 @@ namespace AssignmentoneQ1
         void DisplayResultMethod()
         {
             Console.WriteLine("Student Name: {0} || Grade: {1} || Feedback: {2}", Stu_Name, Grade, (feedbackdesc)feedback);
+            Console.WriteLine("Hii...Hello")
         }
 
         static void Main()
